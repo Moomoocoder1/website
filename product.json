@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Rocktopus",
+        "price": 5,
+        "image": "images/download.png"
+    },
+    {
+        "id": 2,
+        "name": "Fidget Spinner",
+        "price": 5,
+        "image": "images/fidget.png"
+    },
+    {
+        "id": 3,
+        "name": "King Lobster",
+        "price": 10,
+        "image": "images/sick.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Mouse",
+        "price": 6,
+        "image": "images/mouse.png"
+    },
+    {
+        "id": 5,
+        "name": "Dinosaur",
+        "price": 5,
+        "image": "images/rawr.png"
+    },
+    {
+        "id": 6,
+        "name": "Phone Case",
+        "price": 120,
+        "image": "images/fone.png"
+    }
+]
